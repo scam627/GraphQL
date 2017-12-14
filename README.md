@@ -18,57 +18,54 @@ hecha sobre linux Ubuntu/Debian. [TUTORIAL!!!](https://www.youtube.com/watch?v=D
 ```bash
 	$ sudo apt-get install npm
 ```
-### 3. [YARN](https://yarnpkg.com/lang/en/docs/install/):
+### 3. [YARN](https://yarnpkg.com/lang/en/docs/install/)
 
 ### 4. Babel:
 
 	Compilador de javascript
 
-	```bash
-		yarn add babel-cli babel-preset-env babel-preset-stage-3 
-	```
+```bash
+	yarn add babel-cli babel-preset-env babel-preset-stage-3 
+```
 
 ### 5. Nodemon:
 	
-	Actualizacion instantanea en nuestro servidor
+Actualizacion instantanea en nuestro servidor
 
-	```bash
-		npm install nodemon -g
-	```
+```bash
+	npm install nodemon -g
+```
 
 ### 6. Express y Apollo-Server:
 	
-	```bash
-		yarn add express body-parser apollo-server-express 
-	```
+```bash
+	yarn add express body-parser apollo-server-express 
+```
 
 ### 7. GraphQL tools:
 
-	```bash
-		yarn add graphql-tools 
-	```
+```bash
+	yarn add graphql-tools 
+```
 
 ### 8. GraphQL !!!:
 
-	```bash
-		yarn add graphql
-	```
+```bash
+	yarn add graphql
+```
 
 ## Iniciando el servicio
 
-	Para iniciar nuestro servidor graphql ejecuto el siguiente comando
+Para iniciar nuestro servidor graphql ejecuto el siguiente comando
 	
-	```bash
-		yarn start
-	```
+```bash
+	yarn start
+```
 
-	salida:
+salida:
 
-	```bash
-		Running GRAPHQL server ...
-	```
+```bash
+	Running GRAPHQL server ...
+```
 
-	Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar las querys por ahora solo { holaMundo }
-=======
-# GraphQL
->>>>>>> 843978c2b6f4c4423d6c15a96245dbe9a7ec34cc
+Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar las querys por ahora solo { holaMundo } 
