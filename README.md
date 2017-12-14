@@ -4,7 +4,7 @@ Aqui podras encontrar los paquetes que necesitas para correr
 la primera version del servidor GraphQL esta instalacion esta 
 hecha sobre linux Ubuntu/Debian. [TUTORIAL!!!](https://www.youtube.com/watch?v=DqJGNqtx3Pk&t=1s)
 
-##Dependencias
+## Dependencias
 
 ### 1. Nodejs:
 
