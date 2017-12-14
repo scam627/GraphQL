@@ -9,8 +9,8 @@ hecha sobre linux Ubuntu/Debian. [TUTORIAL!!!](https://www.youtube.com/watch?v=D
 ### 1. Nodejs:
 
 ```bash
-    $ sudo apt-get update
-    $ sudo apt-get install nodejs
+    	$ sudo apt-get update
+    	$ sudo apt-get install nodejs
 ```
 
 ### 2. NPM (Gestor de paquetes):
@@ -59,6 +59,7 @@ Actualizacion instantanea en nuestro servidor
 Para iniciar nuestro servidor graphql ejecuto el siguiente comando
 	
 ```bash
+	cd project
 	yarn start
 ```
 
