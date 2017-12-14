@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Mi primer servidor GraphQL con Nodejs
-:-----------------------------------------------:
 
 Aqui podras encontrar los paquetes que necesitas para correr
 la primera version del servidor GraphQL esta instalacion esta 
