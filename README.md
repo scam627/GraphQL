@@ -6,6 +6,8 @@ hecha sobre linux Ubuntu/Debian. [TUTORIAL!!!](https://www.youtube.com/watch?v=D
 
 ## Dependencias
 
+Las dependencias deben ser instaladas en la carpeta project
+
 ### 1. Nodejs:
 
 ```bash
