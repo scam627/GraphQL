@@ -71,4 +71,4 @@ salida:
 	Running GRAPHQL server ...
 ```
 
-Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar las querys por ahora solo { holaMundo } 
+Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar y crear querys para tu servidor :) 
