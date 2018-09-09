@@ -6,6 +6,8 @@ hecha sobre linux Ubuntu/Debian. [TUTORIAL!!!](https://www.youtube.com/watch?v=D
 
 ## Dependencias
 
+Las dependencias deben ser instaladas en la carpeta project
+
 ### 1. Nodejs:
 
 ```bash
@@ -68,5 +70,4 @@ salida:
 ```bash
 	Running GRAPHQL server ...
 ```
-
-Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar las querys por ahora solo { holaMundo } 
+Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar y crear querys para tu servidor :) 
