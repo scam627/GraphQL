@@ -70,5 +70,4 @@ salida:
 ```bash
 	Running GRAPHQL server ...
 ```
-
 Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar y crear querys para tu servidor :) 
